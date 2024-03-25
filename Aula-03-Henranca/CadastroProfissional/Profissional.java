@@ -1,7 +1,7 @@
 public class Profissional{
 
-	String nome;
-	String Cpf;
+	string Nome;
+	string Cpf;
 
 
 
